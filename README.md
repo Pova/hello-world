@@ -19,3 +19,5 @@ Today:
 Do the laundry + Drying
 Do grocery shopping
 Grade 103B! !! !!!
+
+Last local change! This is cool :)
